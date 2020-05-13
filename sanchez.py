@@ -18,17 +18,7 @@ def store_last_seen_id(id):
         f.write(str(id))
 
 
-possible_answers = ['ATEMSAO!!! SABADO TEM AULÃO DA PROFESSORA CLAUNDIA MAGONE! AQUI NO MURAL Ó !!!',
-                    'maria eduarda BATMAN! JF!!!', 'PEDRO SCHWARZENEGGER !!! COORDENAÇÃO JF !!! ',
-                    'Ó QUEM EU CHAMAR É PRA IR LA FALAR COM A CRIS! GABRIEL VENTORÉZZI, PEDRO YUNES, MATHEUS SILVERIO E PEDRO AUGUSTO COSTO!',
-                    'leticia COSHTELI! JF !!!', 'MEU TIME PREFERIDO É O REMO!',
-                    'GABRIELA ZANLUXI E ALEXANDRA MATEH JF!!!!!!!!!!!', 'O SCHWARZENEGGER EH O MEU FAVORITO!',
-                    'QUEM AQUI É VENTOREZZI?? TU NAO TA INDO EM! TA SUBINDO METADE DA ESCADA E VOLTANDO!',
-                    'BRENO BARROSO E GABRIEL ROSSETI A CRIS TA CHAMANDO VCS LA!',
-                    'CADE O FRANCISCO PAULO E O ARTUR HENRIQUE HEIN???', 'ALEXANDE PERESONE COORDENACAO',
-                    'um minutinho professora? Ó AMANHA É O DIA DE BATER FOTO EM!',
-                    'JA JUSTIFICOU A TUA FALTA NO DIA 30/02?????????????????????????',
-                    'JF AGORA']
+possible_answers = ['insert what answers you want here', 'answer2', 'etc']
 
 
 while True:
